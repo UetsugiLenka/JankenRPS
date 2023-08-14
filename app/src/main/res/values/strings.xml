@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Janken</string>
+    <string name="instruction">
+                Rules:-\n\n
+         1. Rock wins vs Scissor.\n
+         2. Paper wins vs Rock.\n
+         3. Scissor wins vs Paper.\n\n
+                Winner:-\n\n
+        Whoever collects all three stars\n
+        first will be the winner in this game.\n\n
+                Have Fun!\n
+    </string>
+</resources>
